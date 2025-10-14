@@ -8,7 +8,7 @@ Advanced Unreal Engine Python scripts for high-fidelity physics simulation and A
 
 This repository contains two cutting-edge Python scripts designed for Unreal Engine:
 
-### ⚛️ ParallelPhysics
+### ⚛️ Parallel-Physics
 
 A modular, quantum-inspired physics simulation engine built for Unreal Engine’s Python API. It delivers high-fidelity, parallelized physics computation without external dependencies.
 
