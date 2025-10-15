@@ -44,7 +44,7 @@ An AI-enhanced job scheduler and simulation dispatcher using neural prediction a
    ```
 
 
-3. **Run local benchmark tests:**
+4. **Run local benchmark tests:**
 
 For each main script (e.g., `ParallelPhysics.py` and `Neural-Optimized-Parallel-Physics.py`), run:
 
@@ -78,7 +78,7 @@ Both scripts are modular and designed for experimentation:
 
 These tests execute 20 runs each to gather performance metrics.
 
-4. **Review logs and charts:**
+5. **Review logs and charts:**
 
 Benchmark results output detailed logs with job times. Use included scripts to generate charts and analyze performance.
 
