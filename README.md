@@ -8,6 +8,7 @@ Advanced Unreal Engine Python scripts for high-fidelity physics simulation and A
 - 🚀 Average time slashed by two-thirds — this is where the real win lives. It means your scheduler isn’t just peaking occasionally; it’s living in the fast lane.
 - 🧠 Maximum time slightly reduced — even the worst-case scenarios are now less punishing.
 <img width="2400" height="1600" alt="image" src="https://github.com/user-attachments/assets/cf2efab4-1e16-4739-9e8e-5a4606b67fb9" />
+These tests execute 20 runs each to gather performance metrics.
 
 ## Overview
 
@@ -43,13 +44,9 @@ An AI-enhanced job scheduler and simulation dispatcher using neural prediction a
    py <absolute_or_relative_path_to>/Neural-Optimized-Parallel-Physics.py
    ```
 
-
 4. **Run local benchmark tests:**
 
 For each main script (e.g., `ParallelPhysics.py` and `Neural-Optimized-Parallel-Physics.py`), run:
-
-
-These tests execute 20 runs each to gather performance metrics.
 
 5. **Review logs and charts:**
 
