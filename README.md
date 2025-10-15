@@ -49,6 +49,11 @@ An AI-enhanced job scheduler and simulation dispatcher using neural prediction a
 For each main script (e.g., `ParallelPhysics.py` and `Neural-Optimized-Parallel-Physics.py`), run:
 
 
+These tests execute 20 runs each to gather performance metrics.
+
+5. **Review logs and charts:**
+
+Benchmark results output detailed logs with job times. Use included scripts to generate charts and analyze performance.
 
 ## 🚀 Usage
 
@@ -75,12 +80,6 @@ Both scripts are modular and designed for experimentation:
 - Integrate external inference endpoints or real-time predictors
 - Use `NeuralJobPredictor` as a scaffold for production-grade ML batching
 
-
-These tests execute 20 runs each to gather performance metrics.
-
-5. **Review logs and charts:**
-
-Benchmark results output detailed logs with job times. Use included scripts to generate charts and analyze performance.
 
 ## How to Contribute
 
