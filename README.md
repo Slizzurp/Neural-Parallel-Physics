@@ -43,6 +43,13 @@ An AI-enhanced job scheduler and simulation dispatcher using neural prediction a
    py <absolute_or_relative_path_to>/Neural-Optimized-Parallel-Physics.py
    ```
 
+
+3. **Run local benchmark tests:**
+
+For each main script (e.g., `ParallelPhysics.py` and `Neural-Optimized-Parallel-Physics.py`), run:
+
+
+
 ## 🚀 Usage
 
 ### ParallelPhysics
@@ -67,6 +74,29 @@ Both scripts are modular and designed for experimentation:
 - Replace core methods with AI/ML logic for optimization
 - Integrate external inference endpoints or real-time predictors
 - Use `NeuralJobPredictor` as a scaffold for production-grade ML batching
+
+
+These tests execute 20 runs each to gather performance metrics.
+
+4. **Review logs and charts:**
+
+Benchmark results output detailed logs with job times. Use included scripts to generate charts and analyze performance.
+
+## How to Contribute
+
+- Extend worker scripts for remote node connectivity and global task distribution
+- Enhance logging, security features, and telemetry dashboards
+- Report issues or make pull requests for new features or optimizations
+- Collaborate on roadmap for planetary compute grid
+
+## Links
+ 
+- [Read more about Unreal Engine integration](https://www.unrealengine.com/en-US/)
+
+## License
+
+MIT License
+
 
 ## 📚 Credits & Development
 
