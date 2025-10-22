@@ -1,5 +1,3 @@
----
-
 # 🧠 Parallel Physics & Neural-Optimized-Parallel-Physics
 
 Advanced Unreal Engine Python scripts for high-fidelity physics simulation and AI-accelerated job scheduling.
